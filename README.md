@@ -22,8 +22,7 @@ The `Matrix` class has the following methods:
 
 ### Usage
 
-To use MineMatrix, simply run the `minematrix.py` file. The script will create a window and start the game. You can use the arrow keys to move the cursor and the spacebar to fire bullets.
-
+To use MineMatrix, simply run the `minematrix.py` file. The script will create a window and start the game.
 ### Conclusion
 
 MineMatrix is a simple but fun script that demonstrates how to use Pygame to create a falling matrix of characters. The script is easy to understand and can be used as a starting point for more complex games.
